@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/Menu Initial.unity
+    guid: b572e2db55f34e246b7ccf236d621dd6
+  - enabled: 1
+    path: Assets/Project/Scenes/Task1.unity
+    guid: 437baa593d7156f4698132138cee4df5
+  - enabled: 1
+    path: Assets/Project/Scenes/Task2.unity
+    guid: 1eab6c712da0fd148bdf431a4b3f752a
+  - enabled: 1
+    path: Assets/Project/Scenes/End menu.unity
+    guid: f1386bfe49735c0409e7b0c1a7e46231
+  - enabled: 0
+    path: Assets/Project/Scenes/Form Menu.unity
+    guid: a2cadb6dcd2642e4abb7440a7865f750
+  - enabled: 1
+    path: Assets/Project/Scenes/MenuTask1.unity
+    guid: a29a133e17ed6704282d2d309c6996f0
+  - enabled: 1
+    path: Assets/Project/Scenes/MenuTask2.unity
+    guid: 185ee04de8a18f14cbc193b772fc3443
+  - enabled: 1
+    path: Assets/Project/Scenes/MenuTask3.unity
+    guid: 926fa830db4f98e488597d69b655875f
+  - enabled: 1
+    path: Assets/Project/Scenes/MenuTask4.unity
+    guid: e24764955c419ce4ab451a79cdc72a14
+  - enabled: 1
+    path: Assets/Project/Scenes/MenuTask5.unity
+    guid: 5aa3ab265144b6d4a8a9f3a095bf7e64
+  - enabled: 1
+    path: Assets/Project/Scenes/MenuTask6.unity
+    guid: 81c138be7810ac24c8b9d35b719de4e4
+  - enabled: 1
+    path: Assets/Project/Scenes/Task3.unity
+    guid: 444787ace2009df4e9a49e8bdf97300d
+  - enabled: 1
+    path: Assets/Project/Scenes/Task4.unity
+    guid: 6c83a04491143e14c9ad88d97f026a9a
+  - enabled: 1
+    path: Assets/Project/Scenes/Task5.unity
+    guid: 09d2a9303c89cc54ba8a235fa6b33e52
+  - enabled: 1
+    path: Assets/Project/Scenes/Task6.unity
+    guid: e20526604ef37ad43b777c067696b0da
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4d58e9ceb4bb68d42b806ef04dc38d09, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 46944912d26920749810847ee46648ea, type: 2}
+  m_UseUCBPForAssetBundles: 0
